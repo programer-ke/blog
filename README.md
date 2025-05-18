@@ -59,3 +59,8 @@ If you discover a security vulnerability within Laravel, please send an e-mail t
 ## License
 
 The Laravel framework is open-sourced software licensed under the [MIT license](https://opensource.org/licenses/MIT).
+# Laravel Blog
+
+A simple blog app built with Laravel 12. This app allows you to create accout and login functionallity, then one can create, edit or delete a post.
+
+
